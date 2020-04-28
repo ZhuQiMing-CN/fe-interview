@@ -28,11 +28,20 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
-## Today's Interview Question (2019.07.22) —— 97 days
-- [html] [Doctype有什么作用？你知道有多少种Doctype文档类型吗？](https://github.com/haizlin/fe-interview/issues/967)
-- [css] [如何更改placeholder的字体颜色和大小？](https://github.com/haizlin/fe-interview/issues/968)
-- [js] [写例子说明如何给li绑定事件（ul下有1000+个li）？](https://github.com/haizlin/fe-interview/issues/969)
-- [skill] [你认为前端工程师应该分为哪些级别呢？说说你的看法](https://github.com/haizlin/fe-interview/issues/970)
+## Exchange
+Welcome to discuss, if you feel that it is helpful to your study, please click [**Star**](https://github.com/haizlin/fe-interview), and Welcome to the Wechat Sweeping Pay attention to the front-end sword to understand the WeChat Official Account, and join the "front-end learning 3 + 1" Wechat group to communicate with each other (click on the menu of the public number: group communication).
+
+<p align="center">
+    <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
+</p>
+
+
+## Today's Knowledge Points (2020.04.28) —— 378 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [实现一个面包屑导航的效果](https://github.com/haizlin/fe-interview/issues/2302)
+- [css] [你会经常用到伪元素吗？一般都用在哪方面？](https://github.com/haizlin/fe-interview/issues/2303)
+- [js] [callee和caller的区别和作用是什么？](https://github.com/haizlin/fe-interview/issues/2304)
+- [skill] [怎么让接口只能调用一次，再次刷新时就失效呢？](https://github.com/haizlin/fe-interview/issues/2305)
+
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -41,7 +50,7 @@
     [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [Skill](category/skill.md)
 
 - Topics(Please look forward to and welcome PR)  
-    [ES6](category/es6.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
+    [ECMAScript 34+](category/ECMAScript.md) | [NodeJs](category/nodejs.md) | [jQuery 22+](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [wxapp](lib/wxapp.md)
 
 - Tools(Please look forward to and welcome PR) 
     [webpack](tools/webpack.md)
@@ -69,17 +78,20 @@
 
 …………  
 
-- 95 days (2019.07.20)
-    - [html] [HTML5标准提供了哪些新的API？你有用过哪些？](https://github.com/haizlin/fe-interview/issues/958)
-    - [css] [当一个元素被设置为浮动后，它的display值变为什么呢？](https://github.com/haizlin/fe-interview/issues/959)
-    - [js] [分别写出数组的交集、并集、差集、补集这四个方法](https://github.com/haizlin/fe-interview/issues/960)
-    - [skill] [你知道什么是图片防盗链吗？防盗链怎么实现呢？说说你的方法](https://github.com/haizlin/fe-interview/issues/961)
 
-- 96 days (2019.07.21)
-    - [html] [写出以下几个HTML标签：字体、居中、文字加粗、下标](https://github.com/haizlin/fe-interview/issues/962)
-    - [css] [行内css和important哪个优先级高？](https://github.com/haizlin/fe-interview/issues/963)
-    - [js] [要实现一个js的持续动画，你有什么比较好的方法？](https://github.com/haizlin/fe-interview/issues/964)
-    - [软技能] [说说你对Git的branch, diff, merge的理解？](https://github.com/haizlin/fe-interview/issues/965)
+- 376 days (2020.04.26)
+    - [html] [字体图标加载出来成了小方块，是什么原因呢？如何解决？](https://github.com/haizlin/fe-interview/issues/2294)
+	- [css] [说说position:sticky有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2295)
+	- [js] [AudioContext有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2296)
+	- [skill] [你一般用什么工具测试前端代码的性能？](https://github.com/haizlin/fe-interview/issues/2297)
+	
+
+- 377 days (2020.04.27)
+    - [html] [如何使用普通元素拥有像textarea元素一样缩放？](https://github.com/haizlin/fe-interview/issues/2298)
+	- [css] [用css画出一把刻度尺](https://github.com/haizlin/fe-interview/issues/2299)
+	- [js] [写一个方法实现自定义右键菜单的功能](https://github.com/haizlin/fe-interview/issues/2300)
+	- [skill] [接口调用频率太高，如何做好接口的限制呢？](https://github.com/haizlin/fe-interview/issues/2301)
+	
 
 - **[All](category/history.md)**
 
@@ -95,9 +107,9 @@
 ![origin picture](https://github.com/haizlin/fe-interview/raw/master/resource/images/begin.jpg)
 
 ## Exchange
-Welcome to discuss, if you think it is helpful for your study, please order [**Star**](https://github.com/haizlin/fe-interview), and welcome to join the **"front-end interview daily 3 + 1"** Wechat group (sweep personal micro-signal invitation group) to communicate with each other.
+Welcome to discuss, if you feel that it is helpful to your study, please click [**Star**](https://github.com/haizlin/fe-interview), and Welcome to the Wechat Sweeping Pay attention to the front-end sword to understand the WeChat Official Account, and join the "front-end learning 3 + 1" Wechat group to communicate with each other (click on the menu of the public number: group communication).
 
-![wechat qrcode](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
+![wechat qrcode_public](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg)
 
 ## Thanks（No ranking）
 - [qq674785876](https://github.com/qq674785876)
@@ -108,24 +120,26 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - [Luke.Deng](https://github.com/xiangshuo1992)
 - [xiqi99520](https://github.com/xiqi99520)
 - [LeannaLady](https://github.com/LeannaLady)
+- [cxwht](https://github.com/cxwht)
+- [zhaoqian0901](https://github.com/zhaoqian0901)
 
 ## Events
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
 - 2019.04.25 — 添加了面试题的分类
 - 2019.04.27 — 添加了Issues的模板
-- 2019.04.28 — 每日3题改成每日3+1，即添加了一个软技能题
+- 2019.04.28 — 每日3题改成每日3+1，即添加了一个skill题
 - 2019.04.29 — 添加了特别感谢的朋友
 - 2019.04.30 — 添加了QQ讨论群
 - 2019.05.02 — 去除QQ讨论群二维码，添加公众号及个人微信二维码
 - 2019.05.05 — 看到很多网络上的朋友滥用链接，让有需要的朋友找不到最新的试题，特添加了转载说明
 - 2019.05.07 — 为了把开源项目更好的延续下去，帮助更多爱学习的朋友，开通了掘金专栏、知乎专栏和看云
 - 2019.05.07 — 下午star数突破100，看来爱学习的人很多，也为自己的坚持而感到欣慰！利他利已！
-- 2019.05.08 — 看到点赞数破100了，但每天答题的人很少很少！我在反思问题出在我身上还是什么原因？所有特加了提示：不要为了谁而来，要为自己而来！
+- 2019.05.08 — 看到点赞数破100了，但每天答题的人很少很少！我在反思问题出在我身上还是什么原因？所以特加了提示：不要为了谁而来，要为自己而来！
 - 2019.05.12 — 与国际接轨，代码与学习无国界，所以添加了英文版本，后续会继续优化，先解决有的问题！
 - 2019.05.13 — star数突破300！
 - 2019.05.14 — issues题目数量突破100！继续努力前行！
 - 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
-- 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法
+- 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所以添加了怎样学习的方法
 - 2019.05.23 — 发现很多朋友都好奇这个开源项目，所以特加了本开源项目的四大宗旨。
 - 2019.06.01 — 为了指引新关注的朋友，就把第1、2、3天的题也显示出来了。
 - 2019.06.03 — 世上本无竞争，只是参与的人多了而已，特加了相关优质开源项目的链接，欢迎大家关注，找到适合自己的学习方式（open的心态，很多朋友让我多关注下竞争对手，我说不用，要感谢竞争，竞争会使我更强大，其实我觉得最大的对手就是自己！）。
@@ -133,11 +147,11 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.06.13 — star数突破700！离5月13日刚好满一个月，增加了400，看来爱学习的朋友还是很多的！感谢关注！
 - 2019.06.14 — 同步开通了简书入口，让更多的朋友参与。
 - 2019.06.20 — star数突破888！好吉利的数字！
-- 2019.06.21 — vue的题量突破150+，html/css/javascript/软技能的题量分别为67，成为目前市面上题量最大的开源仓库！（全球第一），感谢坚持！
+- 2019.06.21 — vue的题量突破150+，html/css/javascript/skill的题量分别为67，成为目前市面上题量最大的开源仓库！（全球第一），感谢坚持！
 - 2019.06.23 — 仅仅两天，vue的题量再次突破220+，非常感谢坚持！
 - 2019.06.25 — 误打误撞，github上面搜索“前端面试”，按star排行，成功挺进前10，立个flag，年底目标前5！
 - 2019.06.26 — 第71天，star数突破1000，issues数突破500！
-- 2019.06.28 — 第73天，此开源项目被[HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39/)收录，并把作者添加到了贡献者的名单，感觉HG，欢迎大家关注HG！
+- 2019.06.28 — 第73天，此开源项目被[HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39/)收录，并把作者添加到了贡献者的名单，感谢HG，欢迎大家关注HG！
 - 2019.06.28 — 第73天，star数突破1300，原因是发布了篇 [vue 248+个知识点（面试题）为你保驾护航](https://juejin.im/post/5d153267e51d4510624f9809)，看来爱学习的朋友还是非常多的！
 - 2019.06.30 — 第75天，《前端面试每日3+1》开源项目上了github的热门榜，总榜排行第6，javascript语言榜排名第1！感谢一路同行的朋友们的努力付出！
 - 2019.06.30 — 第75天，鉴于有不少朋友都想直接要答案，而我的回答始终是没有，答案在你自己脑中！新的口号：始于面试，但不止于面试！提倡每日学习，每天进步！
@@ -146,13 +160,40 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.07.08 — 第83天，star数突破3000大关
 - 2019.07.18 — 添加了非常棒的开源项目链接，顺便记录下今天star突破3500，关注的朋友越来越多，继续坚持**死磕自己，愉悦大家**
 - 2019.07.19 — [328道React题](https://juejin.im/post/5d310e8bf265da1bd261259d)出炉，目前Vue和React的题已经各占领全球第一了，后期会持续更新！
+- 2019.07.25 — 开通了[segmentfault专栏](https://segmentfault.com/blog/frontend-interview)的专栏，至今已有10个平台同步更新，让更多的朋友参与进来！
+- 2019.07.25 — 整整100天，从未间断，共968个知识点，3787个朋友关注，上百万次访问！创造了多个记录，多个第一，但路还长，望继续坚持！
+- 2019.08.02 — 第108天，知识点突破1000，继续努力前行！发现一路上好多模仿者、也有好多抄袭者（引用原题都没有添加出处），但不忘初心，抄得了题目，抄不了**那份坚持与执着**！同时感谢他们一路的陪伴。
+- 2019.08.18 — 第124天，受到俄罗斯老外的关注并吐槽了一下，原因估计是他看不懂中文吧，虽然也有英文版本，但那英文及排版有望改进。
+- 2019.08.19 — 第125天，本项目又再一次上了github的热门榜，距离上次刚好是50天（在第75天的时候），能帮助到更多的朋友，那就只有坚持吧！
+- 2019.08.21 — 第127天，star数突破5000，github上搜索“前端面试”，按star排行，成功挺进前5，这是6月25日定的小目标，提前完成，继续坚持吧，不忘初心，利他利己，足矣。
+- 2019.09.13 — 今天是更新的第150天，刚好中秋节，农历十五中秋节，是一种巧合，意味着团团圆圆！祝所有朋友幸福健康！
+- 2019.09.18 — 今天一看关注数增加了不少，才发现又一次上了github热门榜，第三次了，看来爱学习的朋友很多！
+- 2019.10.10 — 第四次登上github热门榜，应该是坚持更新的结果，同时项目被[前端网](http://qianduan.cc)收录！
+- 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
+- 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
+- 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
+- 2020.02.28 — 第317天，第7次登上github热门榜！
+- 2020.03.09 — 第328天，第8次登上github热门榜！去年年底说的官网的事还没上线，不找理由，继续期待吧，满一年的时候会实现的
+- 2020.03.11 — 第330天，star数突破10000，真正跨入万人项目了，在这公布下数据统计（真开源，敢反馈） ：
+    - 坚持每天4.30-5:00之间发布3+1题目，第330天
+    - github有10000人关注，全球开源项目排名第1468名
+    - 总共发布2012道题，涉及html/javascript/css/skill/vue/react/es/nodejs/jquery等题目，前端类题目全球排名第一，包含各大厂商 
+    - 共有39个作者贡献了题目
+    - 总共1250位朋友参与答题，共有6165条回复
+    - 公众号有3710位朋友关注
+    - 有8次上了github全球热门榜
+    - 每天从掘金、简书、sf等平台访问过来的人数达到5千人
+    - 微信上的广告收入：490.55元（广告放在底部，从不干扰读者，后期将会用于相关网站建设支出，服务于社区）
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
 - [zhihu](https://zhuanlan.zhihu.com/fe-interview)（Daily Synchronized Updates）
+- [Github](https://github.com/haizlin/fe-interview)（Daily Synchronized Updates）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
 - [jianshu](https://www.jianshu.com/c/1ba24fbe0006)（Daily Synchronized Updates）
+- [segmentfault](https://segmentfault.com/blog/frontend-interview)（Daily Synchronized Updates）
+- [weibo](https://weibo.com/haizlin)（Daily Synchronized Updates）
 - [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）
@@ -170,6 +211,14 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
 * [CS-Notes](https://github.com/CyC2018/CS-Notes)（技术面试必备基础知识、Leetcode 题解）
 * [情封](https://github.com/f2er)（公众号「前端早读课」作者情封）
 * [Nodejs技术栈](https://www.nodejs.red)（公众号「Nodejs技术栈」作者五月君，本文档是作者从事 Node.js Developer 以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈。）
+* [SHERlocked93](https://github.com/SHERlocked93/blog) （公众号 「前端下午茶」作者，分享前端精选文章，和大家一起成长）
+* [lucifer](https://github.com/azl397985856/fe-interview) （公众号 「脑洞前端」作者，宇宙最强的前端面试指南）
+* [_frank](https://mp.weixin.qq.com/s/K3yG4eyuQvZxXIU9jas8kA) （公众号 「前端迷」作者，定期分享源码解析，面试经历以及前端技术）
+* [达达前端](https://github.com/webVueBlog/vueblog) （公众号 「达达前端」作者，一个热爱前端的达达程序员）
+* [前端高校](https://github.com/webVueBlog/vueblog) （公众号 「前端高校」作者，置身世外只为暗中观察）
+* [魔王哪吒](https://juejin.im/user/5e477d7ce51d4526c550a27d) （web前端开发工程师）
+* [若川](https://github.com/lxchuan12/blog) （公众号 「若川视野」作者，freeCodeCamp杭州社区组织者之一）
+* [qiangdada](https://github.com/xuqiang521/overwrite) （公众号「合格前端」，定期推送一些精选博文，内容包括但不仅限于前端，不定期进行技术直播分享。）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
 * [刘小夕](https://github.com/YvetteLau/Step-By-Step)（公众号「前端宇宙」作者刘小夕，我将和大家一起一步一个脚印，向前端专家迈进。）
 * [koala](https://github.com/koala-coding/goodBlog)（公众号「程序员成长指北」作者，专注 完整的 Node.js 技术栈分享，从 JavaScript 到 Node.js,再到后端数据库，祝您成为优秀的高级 Node.js 工程师。座右铭：今天未完成的，明天更不会完成。）
@@ -184,6 +233,7 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
 * [前端小智](https://juejin.im/user/59df61ec51882578ce26ee6e)（公众号「大迁世界」作者）
 * [ConardLi](https://github.com/ConardLi)（公众号「code秘密花园」作者）
 * [RobinsonZhang](https://github.com/robinson90)（公众号「达摩空间」作者，爱分享，爱挑战，技术狂热，不断写作，前沿布道。 我们从小白到大师，慢慢来。）
+* [Wscats](https://github.com/Wscats/articles)（公众号「前端漫游」作者，始于前端但不止于前端。）
 * [前端晚练课](https://github.com/fezaoduke/fe-practice-hard)（前端早读课的姊妹篇，每天一个前端知识点，苦练前端真功夫）
 * [每日一题](https://juejin.im/user/5c31b0176fb9a049f7465912)（每日一题（开开森森学前端系列））
 * [前端漫谈](https://juejin.im/user/585a2f52128fe10069ba1b95/posts)（前端漫谈系列）
@@ -203,4 +253,4 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
   3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## License
-[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
