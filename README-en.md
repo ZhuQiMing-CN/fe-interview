@@ -1,3 +1,17 @@
+## :smiley:【 recommendation 】 a professional badminton competition system 【 diandiansai 】
+> Those who like playing **badminton**, or have friends who like playing **badminton**, can be recommended to them
+
+<div align="center">
+    <p align="center">
+        <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
+    </p>
+    <p align="center">
+        (Use wechat to sweep the experience, which will be open source soon)
+    </p>
+</div>
+
+---
+
 [Website](http://www.h-camel.com/index.html) | [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
@@ -15,22 +29,19 @@
     Think hard - do more - summarize - insist
 </p>
 
-> :star: This is a free and open source project involving the front-end knowledge database * * the most (3000 +), the most complete * *, and the largest number of participants!
+> :star: This is a free and open source project involving the front-end knowledge database * * the most (5000 +), the most complete * *, and the largest number of participants!
 
 :hash: [I'm going to set a question](http://www.h-camel.com/contribution.html) 
 
-| :bulb: Base | [HTML 500+](category/html.md) | [CSS 500+](category/css.md) | [JS 500+](category/js.md) | [Skill 500+](category/skill.md) |  | | | 
+| :bulb: Base | [HTML 1000+](category/html.md) | [CSS 1000+](category/css.md) | [JS 1000+](category/js.md) | [Skill 1000+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
-| :newspaper: Special | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [wxapp](lib/wxapp.md) | 
+| :newspaper: Special | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [wxapp](lib/wxapp.md) | 
 | :hammer: Tool | [webpack 13+](tools/webpack.md) | 
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.18) —— 582 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画出“前端每日3+1”的几个字](https://github.com/haizlin/fe-interview/issues/3198)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css中如何获取dpr值？](https://github.com/haizlin/fe-interview/issues/3199)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下为什么我们可以在声明函数前使用它？](https://github.com/haizlin/fe-interview/issues/3200)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [在https站点下如何加载http的资源文件？](https://github.com/haizlin/fe-interview/issues/3201)  
+## :clock430: Today's Knowledge Points (2024.09.21) —— 1985 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说小程序授权登录的流程](https://github.com/haizlin/fe-interview/issues/5951)  
  
   
 ### :camel: History
@@ -41,11 +52,8 @@
     …………  
 
 
-- 581 days (2020.11.17)  
-    	 :one: [html] [使用svg画一个爱心](https://github.com/haizlin/fe-interview/issues/3194)  
-	 :two: [css] [元素包含块有什么作用？](https://github.com/haizlin/fe-interview/issues/3195)  
-	 :three: [js] [写一个方法代替eval](https://github.com/haizlin/fe-interview/issues/3196)  
-	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
+- 1984 days (2024.09.20)  
+    	 :one: [小程序] [怎样提高微信小程序的渲染性能？](https://github.com/haizlin/fe-interview/issues/5950)  
  
 	
 - **[All](category/history.md)**

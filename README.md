@@ -1,3 +1,17 @@
+## :smiley:【推荐】一个专业的羽毛球比赛系统【点点赛】
+> 喜欢打**羽毛球**的，或者身边有喜欢打**羽毛球**的朋友，可以推荐给他们使用
+
+<div align="center">
+    <p align="center">
+        <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
+    </p>
+    <p align="center">
+        (使用微信扫一扫体验，即将开源)
+    </p>
+</div>
+
+---
+
 [官网](http://www.h-camel.com/index.html) | [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
@@ -15,22 +29,19 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（3000+）、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（6000+）、最全**，参与人数最多的免费开源公益项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 500+](category/html.md) | [CSS 500+](category/css.md) | [JS 500+](category/js.md) | [软技能 500+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 1200+](category/html.md) | [CSS 1200+](category/css.md) | [JS 1200+](category/js.md) | [软技能 1200+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
-| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
+| :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.18) —— 第582天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画出“前端每日3+1”的几个字](https://github.com/haizlin/fe-interview/issues/3198)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css中如何获取dpr值？](https://github.com/haizlin/fe-interview/issues/3199)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下为什么我们可以在声明函数前使用它？](https://github.com/haizlin/fe-interview/issues/3200)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [在https站点下如何加载http的资源文件？](https://github.com/haizlin/fe-interview/issues/3201)  
+## :clock430: 今天的知识点   (2024.09.21) —— 第1985天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说小程序授权登录的流程](https://github.com/haizlin/fe-interview/issues/5951)  
  
   
 ### :camel: 历史题目
@@ -42,11 +53,8 @@
     …………  
 
 
-- 第581天 (2020.11.17)  
-    	 :one: [html] [使用svg画一个爱心](https://github.com/haizlin/fe-interview/issues/3194)  
-	 :two: [css] [元素包含块有什么作用？](https://github.com/haizlin/fe-interview/issues/3195)  
-	 :three: [js] [写一个方法代替eval](https://github.com/haizlin/fe-interview/issues/3196)  
-	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
+- 第1984天 (2024.09.20)  
+    	 :one: [小程序] [怎样提高微信小程序的渲染性能？](https://github.com/haizlin/fe-interview/issues/5950)  
  
 	
 - **[查看全部](category/history.md)**
