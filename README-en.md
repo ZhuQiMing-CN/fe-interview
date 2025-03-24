@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.21) —— 1985 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说小程序授权登录的流程](https://github.com/haizlin/fe-interview/issues/5951)  
+## :clock430: Today's Knowledge Points (2025.03.24) —— 2169 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中处理跨域请求？](https://github.com/haizlin/fe-interview/issues/6141)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1984 days (2024.09.20)  
-    	 :one: [小程序] [怎样提高微信小程序的渲染性能？](https://github.com/haizlin/fe-interview/issues/5950)  
+- 2168 days (2025.03.23)  
+    	 :one: [jQuery] [解释jQuery中的noConflict()方法](https://github.com/haizlin/fe-interview/issues/6140)  
  
 	
 - **[All](category/history.md)**
